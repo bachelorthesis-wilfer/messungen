@@ -1,0 +1,125 @@
+{
+  "CPUUtil": [
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "0",
+      "Timestamp": "2024-08-01T15:23:17Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "0",
+      "Timestamp": "2024-08-01T15:23:37Z"
+    },
+
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "0",
+      "Timestamp": "2024-08-01T15:23:57Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "0",
+      "Timestamp": "2024-08-01T15:24:17Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "23",
+      "Timestamp": "2024-08-01T15:24:37Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "53",
+      "Timestamp": "2024-08-01T15:24:57Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "44",
+      "Timestamp": "2024-08-01T15:25:17Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "21",
+      "Timestamp": "2024-08-01T15:25:37Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "78",
+      "Timestamp": "2024-08-01T15:25:57Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "95",
+      "Timestamp": "2024-08-01T15:26:17Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "26",
+      "Timestamp": "2024-08-01T15:26:37Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "7",
+      "Timestamp": "2024-08-01T15:26:57Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "0",
+      "Timestamp": "2024-08-01T15:27:17Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "0",
+      "Timestamp": "2024-08-01T15:27:37Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "0",
+      "Timestamp": "2024-08-01T15:27:57Z"
+    }
+  ]
+}

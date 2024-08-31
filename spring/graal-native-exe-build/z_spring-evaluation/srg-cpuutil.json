@@ -1,0 +1,85 @@
+{
+  "CPUUtil": [
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "0",
+      "Timestamp": "2024-08-01T15:32:17Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "0",
+      "Timestamp": "2024-08-01T15:32:37Z"
+    },
+
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "0",
+      "Timestamp": "2024-08-01T15:32:57Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "9",
+      "Timestamp": "2024-08-01T15:33:17Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "47",
+      "Timestamp": "2024-08-01T15:33:37Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "43",
+      "Timestamp": "2024-08-01T15:33:57Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "93",
+      "Timestamp": "2024-08-01T15:34:17Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "30",
+      "Timestamp": "2024-08-01T15:34:37Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "1",
+      "Timestamp": "2024-08-01T15:34:57Z"
+    },
+    {
+      "MetricDefinition": {
+        "@odata.id": "/redfish/v1/TelemetryService/MetricDefinitions/CPUUtil/"
+      },
+      "MetricId": "CPUUtil",
+      "MetricValue": "0",
+      "Timestamp": "2024-08-01T15:35:17Z"
+    }
+  ]
+}
